@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WebViewInScrollView
 //
-//  Created by madhur.bhargava@philips.com on 24/10/16.
+//  Created by madhur.bhargava333@gmail.com on 24/10/16.
 //  Copyright © 2016 LunarMonk. All rights reserved.
 //
 

@@ -14,6 +14,7 @@
 		9733EE251DBEA2010071B77F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9733EE231DBEA2010071B77F /* LaunchScreen.storyboard */; };
 		9733EE301DBEA2010071B77F /* WebViewInScrollViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9733EE2F1DBEA2010071B77F /* WebViewInScrollViewTests.swift */; };
 		9733EE3B1DBEA2020071B77F /* WebViewInScrollViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9733EE3A1DBEA2020071B77F /* WebViewInScrollViewUITests.swift */; };
+		9733EE491DBEA8270071B77F /* road.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9733EE481DBEA8270071B77F /* road.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9733EE361DBEA2010071B77F /* WebViewInScrollViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebViewInScrollViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9733EE3A1DBEA2020071B77F /* WebViewInScrollViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewInScrollViewUITests.swift; sourceTree = "<group>"; };
 		9733EE3C1DBEA2020071B77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9733EE481DBEA8270071B77F /* road.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = road.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9733EE211DBEA2010071B77F /* Assets.xcassets */,
 				9733EE231DBEA2010071B77F /* LaunchScreen.storyboard */,
 				9733EE261DBEA2010071B77F /* Info.plist */,
+				9733EE481DBEA8270071B77F /* road.jpg */,
 			);
 			path = WebViewInScrollView;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9733EE251DBEA2010071B77F /* LaunchScreen.storyboard in Resources */,
+				9733EE491DBEA8270071B77F /* road.jpg in Resources */,
 				9733EE221DBEA2010071B77F /* Assets.xcassets in Resources */,
 				9733EE201DBEA2010071B77F /* Main.storyboard in Resources */,
 			);
